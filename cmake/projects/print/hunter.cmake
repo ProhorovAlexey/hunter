@@ -5,9 +5,9 @@ include(hunter_pick_scheme)
 
 hunter_add_version(
     PACKAGE_NAME
-    factorial
+    print
     VERSION
-    "1.0.1"
+    "v1.0"
     URL
     "https://github.com/ProhorovAlexey/print/archive/v1.0.tar.gz"
     SHA1
