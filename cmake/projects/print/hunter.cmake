@@ -11,7 +11,7 @@ hunter_add_version(
     URL
     "https://github.com/ProhorovAlexey/print/archive/v1.0.tar.gz"
     SHA1
-    7d790730b569116e4670a7dbfc1d51166c75b0c5
+    b81cab3c217fdb043e0023ffd630daf49284836f
 )
 
 hunter_pick_scheme(DEFAULT url_sha1_cmake)
